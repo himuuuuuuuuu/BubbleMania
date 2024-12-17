@@ -18,7 +18,7 @@ Welcome to **Bubble Mania**, an exciting and addictive arcade game that will kee
 
 ## Visit Us
 
-Just go and visit the amazing **BubbleMaina** for endless fun and entertainment. Start popping bubbles today and immerse yourself in the action!
+Just go and visit the amazing **(https://bubble-mania-five.vercel.app/)** for endless fun and entertainment. Start popping bubbles today and immerse yourself in the action!
 
 ---
 
